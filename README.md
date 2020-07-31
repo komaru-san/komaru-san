@@ -3,13 +3,13 @@
 
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
 ![Profile views](https://gpvc.arturio.dev/domathid)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=komaru-san.komaru-san)
 <br />
 ![Domath ID Gif](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 <br />
-[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=DomathID&show_icons=true&theme=vue)](https://github.com/domathid/)
+[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=komaru-san&show_icons=true&theme=vue)](https://github.com/domathid/)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domathId&layout=compact&theme=vue)](https://github.com/domathid/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komaru-san&layout=compact&theme=vue)](https://github.com/domathid/)
 <br />
 <br />
 <a href="https://www.facebook.com/bangdomath.id">

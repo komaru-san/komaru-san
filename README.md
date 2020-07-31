@@ -1,12 +1,12 @@
 ### Hey :octocat:, I'm Domath !
 
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
-![Profile views](https://gpvc.arturio.dev/domathid)
+![Profile views](https://gpvc.arturio.dev/komaru-san)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=komaru-san.komaru-san)
 <br />
-[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=komaru-san&show_icons=true&theme=vue)](https://github.com/domathid/)
+[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=komaru-san&show_icons=true&theme=vue)](https://github.com/komaru-san/)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komaru-san&layout=compact&theme=vue)](https://github.com/domathid/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komaru-san&layout=compact&theme=vue)](https://github.com/komaru-san/)
 <br />
 <br />
 <a href="https://www.facebook.com/bangdomath.id">

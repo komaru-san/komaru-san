@@ -6,7 +6,7 @@
 <br />
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=komaru-san&show_icons=true&theme=graywhite)](https://github.com/komaru-san/)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komaru-san&layout=compact&theme=graywhite)](https://github.com/komaru-san/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komaru-san&layout=compact&theme=vue)](https://github.com/komaru-san/)
 <br />
 <br />
 <a href="https://www.facebook.com/bangdomath.id">
